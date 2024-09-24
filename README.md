@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErzaKaneki
 - 👀 I’m interested in ... Game design
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... SQL
 - 💞️ I’m looking to collaborate on ... nothing atm
 - 📫 How to reach me ... https://dev.to/erza_kaneki/
 - 😄 Pronouns: ... he/him/geek/nerd
