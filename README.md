@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ErzaKaneki
-- 👀 I’m interested in ... Game design/Front End/Back End
-- 🌱 I’m currently learning ... Django/Unbuntu/Apache/AWS
+- 👋 Hi, I’m @ErzaKaneki AKA Nevin Kadlec
+- 👀 I’m interested in ... Game design/Front End/Back End/Full Stack Engineering
+- 🌱 I’m currently learning ... Full Stack Engineering/Advance Python
 - 💞️ I’m looking to collaborate on ... nothing atm
 - 📫 How to reach me ... https://dev.to/erza_kaneki/
 - 😄 Pronouns: ... he/him/geek/nerd
