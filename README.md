@@ -63,7 +63,7 @@ With 25+ years of programming passion and real-world business experience across 
 ## 📞 Let's Work Together
 
 - **Portfolio Website**: [nevinkadlec.com](https://erzakaneki.github.io/nevin-kadlec-portfolio/)
-- **Email**: [dev@nevinkadlec.com](mailto:dev@nevinkadlec.com)
+- **Email**: [dev@nevinkadlec.com](mailto:dev@nkforge.com)
 - **LinkedIn**: [linkedin.com/in/nevin-kadlec](https://www.linkedin.com/in/nevin-kadlec/)
 
 ---
