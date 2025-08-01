@@ -3,7 +3,9 @@
 **Building custom web applications and business automation solutions for small businesses**
 
 ---
-
+<p align="left">
+    <img src="./images/profile.png" alt="profile picture" width="192" style="border-radius:90px;">
+</p>
 ## 🎯 What I Do
 
 - **Professional Web Development**: Modern, responsive business websites and landing pages designed to convert visitors into customers
