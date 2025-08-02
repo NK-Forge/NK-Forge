@@ -4,7 +4,7 @@
 
 ---
 <p align="left">
-    <img src="./images/profile.png" alt="profile picture" width="192" style="border-radius:90px;">
+    <img src="./images/profile.png" alt="profile picture" width="192" style="border-radius:50%;">
 </p>
 ## 🎯 What I Do
 
