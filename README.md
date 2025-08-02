@@ -43,7 +43,8 @@ Comprehensive Python solution for automating inventory tracking, analysis, and r
 
 **Key Features:** Automated low-stock alerts, professional charts, category analysis, reorder recommendations
 
-[📖 View Code](https://github.com/NK-Forge/python-inventory-manager) | [📊 Sample Output](https://github.com/NK-Forge/python-inventory-manager/blob/main/README.md#-sample-output)
+[📖 View Code](https://github.com/NK-Forge/python-inventory-manager) | [📊 Sample Output](https://github.com/NK-Forge/python-inventory-manager#-sample-output
+)
 
 
 ### [Professional Business Website Template](https://NK-Forge.github.io/business-landing-page/)
