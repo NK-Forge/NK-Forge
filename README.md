@@ -36,7 +36,7 @@ Interactive web-based task management solution with real-time updates, priority 
 
 **Key Features:** CRUD functionality, priority management, due date tracking, mobile-responsive design
 
-[📖 View Code](https://github.com/ErzaKaneki/task-managmet-app) | [🚀 Live Demo](https://NK-Forge.github.io/task-managmet-app/)
+[📖 View Code](https://github.com/NK-Forge/task-managmet-app) | [🚀 Live Demo](https://NK-Forge.github.io/task-managmet-app/)
 
 ### [Smart Inventory Management System](https://github.com/NK-Forge/python-inventory-manager)
 Comprehensive Python solution for automating inventory tracking, analysis, and reporting. Transforms manual spreadsheet processes into intelligent business insights.
