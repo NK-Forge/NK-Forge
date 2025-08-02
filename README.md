@@ -67,7 +67,7 @@ With 25+ years of programming passion and real-world business experience across 
 ## 📞 Let's Work Together
 
 - **Portfolio Website**: [nevinkadlec.com](https://NK-Forge.github.io/nevin-kadlec-portfolio/)
-- **Email**: [dev@nevinkadlec.com](mailto:dev@nkforge.com)
+- **Email**: [dev@nkforge.com](mailto:dev@nkforge.com)
 - **LinkedIn**: [linkedin.com/in/nevin-kadlec](https://www.linkedin.com/in/nevin-kadlec/)
 
 ---
