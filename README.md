@@ -1,75 +1,87 @@
-# Nevin Kadlec - Full Stack Developer
+# Nevin Kadlec — Full Stack Developer | Founder of NK-Forge
 
-**Building custom web applications and business automation solutions for small businesses**
+**Turning ideas into modern applications, AI-powered tools, and practical automation solutions.**
 
 ---
 <p align="left">
     <img src="./images/profile.png" alt="profile picture" width="192" style="border-radius:50%;">
 </p>
-## 🎯 What I Do
 
-- **Professional Web Development**: Modern, responsive business websites and landing pages designed to convert visitors into customers
-- **Business Process Automation**: Python-powered tools that eliminate manual tasks, reduce errors, and save valuable time
-- **Custom Web Applications**: Interactive dashboards, task management systems, and business tools built with modern JavaScript
+## 🎯 What I Build
+
+- **Modern Web Applications** — Responsive, fast, and tailored to real business needs  
+- **Business Automation Tools** — Python + React solutions that cut wasted time and reduce errors  
+- **AI-Enhanced Software** — Tools that blend automation with intelligence for a sharper edge  
+- **Custom Dashboards & Interfaces** — Clear, actionable data for better decisions  
 
 ## 🛠️ Technical Expertise
 
-**Frontend Development**
-- JavaScript (ES6+), HTML5, CSS3
-- Responsive Web Design, UI/UX
-- Cross-Browser Compatibility, Performance Optimization
+**Frontend Development**  
+- React, TypeScript, JavaScript (ES6+), HTML5, CSS3  
+- TailwindCSS, Responsive UI/UX, Cross-Browser Compatibility  
 
-**Backend & Automation**
-- Python Programming, Data Analysis & Visualization
-- pandas, NumPy, Matplotlib, Seaborn
-- Business Process Automation, CSV/Excel Processing
+**Backend & Automation**  
+- Python (pandas, NumPy, FastAPI, Flask)  
+- Data Analysis, CSV/Excel Processing, Visualization  
+- Automation pipelines for business workflows  
 
-**Development Tools**
-- Git & GitHub, RESTful API Development
-- Database Design, Testing & Debugging
-- GitHub Pages Deployment
+**DevOps & Tools**  
+- Git & GitHub (version control & CI/CD with Actions)  
+- RESTful API design & integration  
+- Electron for cross-platform desktop apps  
 
 ## 🌟 Featured Projects
 
-### [TaskFlow Pro - Task Management Application](https://NK-Forge.github.io/task-managmet-app/)
-Interactive web-based task management solution with real-time updates, priority management, and progress tracking. Built with JavaScript ES6+, HTML5, and CSS3.
-
-**Key Features:** CRUD functionality, priority management, due date tracking, mobile-responsive design
-
-[📖 View Code](https://github.com/NK-Forge/task-managmet-app) | [🚀 Live Demo](https://NK-Forge.github.io/task-managmet-app/)
-
-### [Smart Inventory Management System](https://github.com/NK-Forge/python-inventory-manager)
-Comprehensive Python solution for automating inventory tracking, analysis, and reporting. Transforms manual spreadsheet processes into intelligent business insights.
-
-**Key Features:** Automated low-stock alerts, professional charts, category analysis, reorder recommendations
-
-[📖 View Code & 📊 Sample Output](https://github.com/NK-Forge/python-inventory-manager)
-)
-
-
-### [Professional Business Website Template](https://NK-Forge.github.io/business-landing-page/)
-Clean, conversion-optimized landing page designed for small businesses seeking professional web presence. Features modern design principles and mobile-first architecture.
-
-**Key Features:** Modern responsive design, contact integration, SEO optimization, performance optimized
-
-[📖 View Code](https://github.com/NK-Forge/business-landing-page) | [🌐 Live Demo](https://NK-Forge.github.io/business-landing-page/)
-
-## 💼 Professional Background
-
-With 25+ years of programming passion and real-world business experience across blue-collar industries (warehouses, factories, trucking), I bring a unique understanding of how businesses actually operate. This combination allows me to create technology solutions that solve real problems and provide lasting value.
-
-**My Approach:**
-- Email-first communication for clear project documentation
-- Fixed project pricing with no surprises
-- Focus on practical solutions that deliver measurable ROI
-- Partnership mindset - working with you, not just for you
-
-## 📞 Let's Work Together
-
-- **Portfolio Website**: [nevinkadlec.com](https://NK-Forge.github.io/nevin-kadlec-portfolio/)
-- **Email**: [dev@nkforge.com](mailto:dev@nkforge.com)
-- **LinkedIn**: [linkedin.com/in/nevin-kadlec](https://www.linkedin.com/in/nevin-kadlec/)
+### Email List Cleaner (ELC)  
+Cross-platform React + Electron app for cleaning and validating email lists.  
+**Features:** Duplicate detection, MX validation, domain risk scoring, batch processing  
 
 ---
 
-*Transforming decades of programming passion into practical business solutions. Based in Fargo, North Dakota, serving small businesses nationwide.*
+### File Organizer  
+Desktop tool for managing and auto-sorting files into clean directories.  
+**Features:** Drag-and-drop, rule-based sorting, exportable reports  
+
+---
+
+### Invoice Generator  
+Lightweight React/Electron app for creating professional invoices quickly.  
+**Features:** PDF export, customizable templates, client tracking  
+
+---
+
+### Schedule C Planner (in progress)  
+Modernized Electron UI for an accountant tool that helps small business owners track and plan Schedule C expenses.  
+
+---
+
+## 🗺 Current Roadmap
+
+- 📦 Finalize, package, and release **Email List Cleaner (ELC)**  
+- 🧾 Rework and modernize **Schedule C Planner** with React + Electron  
+- 🗂 Update older Tkinter apps into modern, cross-platform desktop tools  
+- ⚒ Build out **NK-Forge Hub** for centralized access to all software  
+- 🛡 Develop licensing system to manage distribution and tool access  
+
+---
+
+## 💼 Professional Background
+
+With **25+ years of programming passion** and a career spanning warehouses, factories, and trucking, I understand how real businesses run.  
+That perspective drives my approach: practical tools, not over-engineered theory.  
+
+**My Approach:**  
+- Clear communication (email-first, documented)  
+- Predictable pricing — no surprises  
+- Solutions that deliver measurable ROI  
+- Collaborative mindset — building *with* you, not just *for* you  
+
+## 📞 Let’s Connect
+
+- **Portfolio Website**: [nevinkadlec.com](https://NK-Forge.github.io/nevin-kadlec-portfolio/)  
+- **Email**: [dev@nkforge.com](mailto:dev@nkforge.com)  
+- **LinkedIn**: [linkedin.com/in/nevin-kadlec](https://www.linkedin.com/in/nevin-kadlec/)  
+
+---
+
+*⚒ Forging next-generation tools, one project at a time. Based in Fargo, North Dakota, building solutions for small businesses nationwide.*
