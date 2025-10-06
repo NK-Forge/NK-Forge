@@ -1,11 +1,18 @@
 # Nevin Kadlec — Full Stack Developer | Founder of NK-Forge
 
-**Turning ideas into modern applications, AI-powered tools, and practical automation solutions.**
+**Turning ideas into modern applications, AI-powered tools, and practical automation.**
 
----
 <p align="left">
-    <img src="./images/profile.png" alt="profile picture" width="192" style="border-radius:50%;">
+  <img src="./images/profile.png" alt="Portrait of Nevin Kadlec" width="192" style="border-radius:50%;">
 </p>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=9FEAF9)
+![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
+![Open to Projects](https://img.shields.io/badge/Status-Open%20to%20projects-success)
+![License: EULA](https://img.shields.io/badge/License-EULA-blue)
+
 
 ## 🎯 What I Build
 
@@ -14,25 +21,29 @@
 - **AI-Enhanced Software** — Tools that blend automation with intelligence for a sharper edge  
 - **Custom Dashboards & Interfaces** — Clear, actionable data for better decisions  
 
+**Need a tool built or modernized?**  
+👉 Email: [dev@nkforge.com](mailto:dev@nkforge.com) • LinkedIn: [linkedin.com/in/nevin-kadlec](https://www.linkedin.com/in/nevin-kadlec/)
+
+
 ## 🛠️ Technical Expertise
 
-**Frontend Development**  
-- React, TypeScript, JavaScript (ES6+), HTML5, CSS3  
-- TailwindCSS, Responsive UI/UX, Cross-Browser Compatibility  
+**Frontend (Web)**  
+- React, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Responsive UI/UX
+
+**Frontend (Desktop)**  
+- Electron (React), Tkinter
 
 **Backend & Automation**  
-- Python (pandas, NumPy, FastAPI, Flask)  
-- Data Analysis, CSV/Excel Processing, Visualization  
-- Automation pipelines for business workflows  
+- Node.js, Python (FastAPI, Flask, pandas, NumPy)
+- Data processing (CSV/Excel), automation pipelines, visualization
 
-**DevOps & Tools**  
-- Git & GitHub (version control & CI/CD with Actions)  
-- RESTful API design & integration  
-- Electron for cross-platform desktop apps  
+**DevOps & Practices**  
+- Git/GitHub, CI/CD (GitHub Actions), RESTful API design & integration
+
 
 ## 🌟 Featured Projects
 
-### Email List Cleaner (ELC)  
+### Email List Cleaner (in progress)
 Cross-platform React + Electron app for cleaning and validating email lists.  
 **Features:** Duplicate detection, MX validation, domain risk scoring, batch processing  
 
@@ -57,18 +68,18 @@ Modernized Electron UI for an accountant tool that helps small business owners t
 
 ## 🗺 Current Roadmap
 
-- 📦 Finalize, package, and release **Email List Cleaner (ELC)**  
-- 🧾 Rework and modernize **Schedule C Planner** with React + Electron  
-- 🗂 Update older Tkinter apps into modern, cross-platform desktop tools  
-- ⚒ Build out **NK-Forge Hub** for centralized access to all software  
-- 🛡 Develop licensing system to manage distribution and tool access  
+| Public Roadmap Goal                                            |
+| -------------------------------------------------------------- |
+| 📦 **Finalize, package, and release Email List Cleaner (ELC)** |
+| 🧾 **Rework and modernize Schedule C Planner**                 | 
+| 🗂 **Update older Tkinter apps**                               |
+| ⚒ **Build out NK-Forge Hub**                                   |
+| 🛡 **Develop licensing system**                                |
+
 
 ---
 
-## 💼 Professional Background
-
-With **25+ years of programming passion** and a career spanning warehouses, factories, and trucking, I understand how real businesses run.  
-That perspective drives my approach: practical tools, not over-engineered theory.  
+### With over 25 years of hands-on software tinkering and a career spanning warehouses, factories, and trucking, I build practical tools that match how real businesses run.
 
 **My Approach:**  
 - Clear communication (email-first, documented)  
@@ -76,11 +87,11 @@ That perspective drives my approach: practical tools, not over-engineered theory
 - Solutions that deliver measurable ROI  
 - Collaborative mindset — building *with* you, not just *for* you  
 
-## 📞 Let’s Connect
+## 📧 Let’s Connect
+- **Portfolio:** [nevinkadlec.com](https://NK-Forge.github.io/nevin-kadlec-portfolio/)
+- **Email:** [dev@nkforge.com](mailto:dev@nkforge.com)
+- **LinkedIn:** [linkedin.com/in/nevin-kadlec](https://www.linkedin.com/in/nevin-kadlec/)
 
-- **Portfolio Website**: [nevinkadlec.com](https://NK-Forge.github.io/nevin-kadlec-portfolio/)  
-- **Email**: [dev@nkforge.com](mailto:dev@nkforge.com)  
-- **LinkedIn**: [linkedin.com/in/nevin-kadlec](https://www.linkedin.com/in/nevin-kadlec/)  
 
 ---
 
