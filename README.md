@@ -43,11 +43,12 @@
 
 ## 🌟 Featured Projects
 
-### Email List Cleaner (in progress)
-Cross-platform React + Electron app for cleaning and validating email lists.  
-**Features:** Duplicate detection, MX validation, domain risk scoring, batch processing  
-
----
+### Warhammer 40k Space Marine 2 Mod Loader/ Launcher
+Desktop tool to help users manage mods freely while managing mod play game
+saves automatically or manually.  
+**Features:** enable/disable mods by click of a button, mod play save mirroring 
+to a vault so not to be over written by Vanilla play.  Two clean launch capabilities.(modded and vanilla)
+Watcher log to see what is happening with the app.
 
 ### File Organizer  
 Desktop tool for managing and auto-sorting files into clean directories.  
@@ -61,20 +62,14 @@ Lightweight React/Electron app for creating professional invoices quickly.
 
 ---
 
-### Schedule C Planner (in progress)  
-Modernized Electron UI for an accountant tool that helps small business owners track and plan Schedule C expenses.  
-
----
-
 ## 🗺 Current Roadmap
 
 | Public Roadmap Goal                                            |
 | -------------------------------------------------------------- |
-| 📦 **Finalize, package, and release Email List Cleaner (ELC)** |
-| 🧾 **Rework and modernize Schedule C Planner**                 | 
-| 🗂 **Update older Tkinter apps**                               |
-| ⚒ **Build out NK-Forge Hub**                                   |
-| 🛡 **Develop licensing system**                                |
+| **Electron/React Project Planner**                             |
+| **Update older Tkinter apps**                                  |
+| **Build out NK-Forge Hub**                                     |
+| **Develop licensing system**                                   |
 
 
 ---
