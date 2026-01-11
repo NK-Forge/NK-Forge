@@ -14,7 +14,7 @@
 ![License: EULA](https://img.shields.io/badge/License-EULA-blue)
 
 
-## 🎯 What I Build
+## What I Build
 
 - **Modern Web Applications** — Responsive, fast, and tailored to real business needs  
 - **Business Automation Tools** — Python + React solutions that cut wasted time and reduce errors  
@@ -25,7 +25,7 @@
 👉 Email: [dev@nkforge.com](mailto:dev@nkforge.com) • LinkedIn: [linkedin.com/in/nevin-kadlec](https://www.linkedin.com/in/nevin-kadlec/)
 
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
 **Frontend (Web)**  
 - React, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Responsive UI/UX
@@ -41,7 +41,7 @@
 - Git/GitHub, CI/CD (GitHub Actions), RESTful API design & integration
 
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### Warhammer 40k Space Marine 2 Mod Loader/ Launcher
 Desktop tool to help users manage mods freely while managing mod play game
