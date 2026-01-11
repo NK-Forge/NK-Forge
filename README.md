@@ -43,12 +43,24 @@
 
 ## Featured Projects
 
-### Warhammer 40k Space Marine 2 Mod Loader/ Launcher
-Desktop tool to help users manage mods freely while managing mod play game
-saves automatically or manually.  
-**Features:** enable/disable mods by click of a button, mod play save mirroring 
-to a vault so not to be over written by Vanilla play.  Two clean launch capabilities.(modded and vanilla)
-Watcher log to see what is happening with the app.
+### Warhammer 40,000: Space Marine 2 Mod Loader / Launcher
+
+A custom-built desktop mod loader and launcher for *Warhammer 40,000: Space Marine 2*, designed to simplify mod management while maintaining game stability and user control.
+
+**Key Features:**
+- Automated mod detection and management
+- Safe enable/disable workflows to prevent corrupted installs
+- Support for future mod expansion and updates
+- User-friendly launcher interface
+- Designed with stability and mod safety as top priorities
+
+**Deployment:**
+- Live release on Nexus Mods
+
+**Download:**
+[Space Marine 2 Mod Loader and Game Launcher(NK-Forge)](https://www.nexusmods.com/warhammer40000spacemarine2/mods/381?tab=files)
+
+
 
 ### File Organizer  
 Desktop tool for managing and auto-sorting files into clean directories.  
