@@ -96,7 +96,7 @@ https://nkforge.gumroad.com/l/hrhyku
 
 ## Current Roadmap
 
-| Public Roadmap Goal                                            |
+|                                                                |
 | -------------------------------------------------------------- |
 | **Build nkforge.com site**                                     |
 | **Update older Tkinter apps**                                  |
