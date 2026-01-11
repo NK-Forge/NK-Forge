@@ -62,13 +62,13 @@ Lightweight React/Electron app for creating professional invoices quickly.
 
 ---
 
-## 🗺 Current Roadmap
+## Current Roadmap
 
 | Public Roadmap Goal                                            |
 | -------------------------------------------------------------- |
-| **Electron/React Project Planner**                             |
+| **Build nkforge.com site**                                     |
 | **Update older Tkinter apps**                                  |
-| **Build out NK-Forge Hub**                                     |
+| **Build Project Planner**                                      |
 | **Develop licensing system**                                   |
 
 
