@@ -62,15 +62,35 @@ A custom-built desktop mod loader and launcher for *Warhammer 40,000: Space Mari
 
 
 
-### File Organizer  
-Desktop tool for managing and auto-sorting files into clean directories.  
-**Features:** Drag-and-drop, rule-based sorting, exportable reports  
+### NK File Organizer
+
+A lightweight desktop utility for safely organizing files by type or date, designed to give users clear visibility and control over file operations.
+
+**Key Features:**
+- Organize files by type or date
+- Preview changes before execution
+- Automatic backups and undo support
+- Duplicate file handling and empty folder cleanup
+
+Gumroad listing:  
+https://nkforge.gumroad.com/l/hwidpd
+
 
 ---
 
-### Invoice Generator  
-Lightweight React/Electron app for creating professional invoices quickly.  
-**Features:** PDF export, customizable templates, client tracking  
+### NK Invoice Generator
+A professional desktop application for freelancers and small businesses to manage clients and create polished invoices with comprehensive tracking and analytics.
+
+**Key Features:**
+- Complete client and invoice management system
+- Professional PDF generation with multiple templates
+- Revenue analytics dashboard with overdue tracking
+- Dark/Light mode themes
+- Data export (CSV/JSON) for backup and analysis
+- Smart search and filtering across all records
+
+**Gumroad listing:**  
+https://nkforge.gumroad.com/l/hrhyku
 
 ---
 
