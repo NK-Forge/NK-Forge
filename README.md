@@ -14,7 +14,7 @@
 ![License: EULA](https://img.shields.io/badge/License-EULA-blue)
 
 
-## 🎯 What I Build
+## What I Build
 
 - **Modern Web Applications** — Responsive, fast, and tailored to real business needs  
 - **Business Automation Tools** — Python + React solutions that cut wasted time and reduce errors  
@@ -25,7 +25,7 @@
 👉 Email: [dev@nkforge.com](mailto:dev@nkforge.com) • LinkedIn: [linkedin.com/in/nevin-kadlec](https://www.linkedin.com/in/nevin-kadlec/)
 
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
 **Frontend (Web)**  
 - React, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Responsive UI/UX
@@ -41,40 +41,67 @@
 - Git/GitHub, CI/CD (GitHub Actions), RESTful API design & integration
 
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### Email List Cleaner (in progress)
-Cross-platform React + Electron app for cleaning and validating email lists.  
-**Features:** Duplicate detection, MX validation, domain risk scoring, batch processing  
+### Warhammer 40,000: Space Marine 2 Mod Loader / Launcher
+
+A custom-built desktop mod loader and launcher for *Warhammer 40,000: Space Marine 2*, designed to simplify mod management while maintaining game stability and user control.
+
+**Key Features:**
+- Automated mod detection and management
+- Safe enable/disable workflows to prevent corrupted installs
+- Support for future mod expansion and updates
+- User-friendly launcher interface
+- Designed with stability and mod safety as top priorities
+
+**Deployment:**
+- Live release on Nexus Mods
+
+**Download:**
+[Space Marine 2 Mod Loader and Game Launcher(NK-Forge)](https://www.nexusmods.com/warhammer40000spacemarine2/mods/381?tab=files)
+
+
+
+### NK File Organizer
+
+A lightweight desktop utility for safely organizing files by type or date, designed to give users clear visibility and control over file operations.
+
+**Key Features:**
+- Organize files by type or date
+- Preview changes before execution
+- Automatic backups and undo support
+- Duplicate file handling and empty folder cleanup
+
+Gumroad listing:  
+https://nkforge.gumroad.com/l/hwidpd
+
 
 ---
 
-### File Organizer  
-Desktop tool for managing and auto-sorting files into clean directories.  
-**Features:** Drag-and-drop, rule-based sorting, exportable reports  
+### NK Invoice Generator
+A professional desktop application for freelancers and small businesses to manage clients and create polished invoices with comprehensive tracking and analytics.
+
+**Key Features:**
+- Complete client and invoice management system
+- Professional PDF generation with multiple templates
+- Revenue analytics dashboard with overdue tracking
+- Dark/Light mode themes
+- Data export (CSV/JSON) for backup and analysis
+- Smart search and filtering across all records
+
+**Gumroad listing:**  
+https://nkforge.gumroad.com/l/hrhyku
 
 ---
 
-### Invoice Generator  
-Lightweight React/Electron app for creating professional invoices quickly.  
-**Features:** PDF export, customizable templates, client tracking  
+## Current Roadmap
 
----
-
-### Schedule C Planner (in progress)  
-Modernized Electron UI for an accountant tool that helps small business owners track and plan Schedule C expenses.  
-
----
-
-## 🗺 Current Roadmap
-
-| Public Roadmap Goal                                            |
+|                                                                |
 | -------------------------------------------------------------- |
-| 📦 **Finalize, package, and release Email List Cleaner (ELC)** |
-| 🧾 **Rework and modernize Schedule C Planner**                 | 
-| 🗂 **Update older Tkinter apps**                               |
-| ⚒ **Build out NK-Forge Hub**                                   |
-| 🛡 **Develop licensing system**                                |
+| **Build nkforge.com site**                                     |
+| **Update older Tkinter apps**                                  |
+| **Build Project Planner**                                      |
+| **Develop licensing system**                                   |
 
 
 ---
