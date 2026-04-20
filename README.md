@@ -3,7 +3,7 @@
 **Turning ideas into modern applications, AI-powered tools, and practical automation.**
 
 <p align="left">
-  <img src="./images/profile.png" alt="Portrait of Nevin Kadlec" width="192" style="border-radius:50%;">
+  <img src="./images/NK_Anime.png" alt="Portrait of Nevin Kadlec" width="192" style="border-radius:50%;">
 </p>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
