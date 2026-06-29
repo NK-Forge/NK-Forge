@@ -3,7 +3,7 @@
 **Building practical software systems for real-world workflows: web apps, desktop tools, backend services, automation, and AI-assisted engineering.**
 
 <p align="left">
-  <img src="./images/NK_Anime.png" alt="Portrait of Nevin Kadlec" width="192" style="border-radius:50%;">
+  <img src="./images/NK_Anime.png" alt="Anime-style portrait of Nevin Kadlec" width="192" style="border-radius:50%;">
 </p>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
@@ -26,6 +26,17 @@ Through NK-Forge, I build and refine practical software across full-stack web ap
 My background is not limited to code. I have worked around warehouses, manufacturing, equipment, trucking, and real-world operations long enough to care deeply about software that fits how people actually work. I value clear workflows, reliable systems, useful automation, and tools that reduce friction instead of adding more of it.
 
 I build with a verification-first mindset: clear architecture, documented decisions, tests, CI checks, runtime validation, and careful review before calling work complete.
+
+---
+
+## Quick Review Path
+
+If you are reviewing my work, these are the best starting points:
+
+* **Backend systems:** [Document Dispatch Service](https://github.com/NK-Forge/DocumentDispatchService)
+* **Real-world desktop software:** [Space Marine 2 Mod Loader / Launcher](https://github.com/NK-Forge/mod_Loader)
+* **Full-stack product delivery:** [Full-Stack E-Commerce Application](https://github.com/NK-Forge/fullstack-ecommerce-app)
+* **Full-stack fundamentals:** [ForgeBoard](https://github.com/NK-Forge/ForgeBoard)
 
 ---
 
@@ -63,67 +74,89 @@ Git, GitHub Actions, Docker, CI/CD, testing, API design, documentation, issue-dr
 
 ### Document Dispatch Service
 
-Distributed document-processing simulator built with ASP.NET Core, Entity Framework Core, PostgreSQL, Docker, background workers, retries, lease-based job coordination, Prometheus metrics, and an operations dashboard.
+A backend-focused document-processing simulation built with ASP.NET Core, Entity Framework Core, PostgreSQL, Docker, background workers, lease-based job coordination, retry handling, Prometheus metrics, and an operations dashboard.
 
 **Why it matters:**
-Shows backend engineering, concurrency thinking, production-style workflow design, operational visibility, and maintainable service architecture.
+This project demonstrates backend system design, concurrency handling, job ownership, operational visibility, and production-style workflow thinking.
 
----
-
-### Full-Stack E-Commerce Application
-
-React + Node/Express + PostgreSQL application with Google OAuth, Stripe Checkout, Stripe webhooks, Swagger/OpenAPI documentation, tests, linting, and deployed functionality.
-
-**Why it matters:**
-Shows end-to-end product delivery across frontend, backend, authentication, payments, APIs, database modeling, and deployment.
+**Repository:**
+[github.com/NK-Forge/DocumentDispatchService](https://github.com/NK-Forge/DocumentDispatchService)
 
 ---
 
 ### Warhammer 40,000: Space Marine 2 Mod Loader / Launcher
 
-A Windows desktop mod loader and launcher for *Warhammer 40,000: Space Marine 2*, designed to simplify mod management while maintaining game stability and user control.
+A Windows desktop mod manager and launcher for *Warhammer 40,000: Space Marine 2*, built to make modding safer, simpler, and more reversible for real users.
 
-**Key Features:**
+The tool has been released publicly through Nexus Mods and has reached **1,000+ unique users** and **1,300+ total downloads**.
 
-* Automated mod detection and management
-* Safe enable/disable workflows
-* Local file handling and user-controlled operations
-* Modded and vanilla launch workflows
-* Release distribution through Nexus Mods
+**Key features:**
+
+* Automatic Steam/Epic install detection
+* Dedicated mod vault and mod-play vault workflows
+* Safe enable/disable behavior
+* Vanilla and modded launch modes
+* Automatic and manual save mirroring
+* Real-time watcher activity panel
+* Reversible modding with no intentional game-file overwrites
 
 **Why it matters:**
-Shows user-facing desktop software, local workflow design, packaging/release thinking, and support for real users outside a classroom or tutorial environment.
+This is real user-facing desktop software with public adoption, installation friction, support concerns, release packaging, and workflow safety considerations.
 
-**Download:**
+**Repository:**
+[github.com/NK-Forge/mod_Loader](https://github.com/NK-Forge/mod_Loader)
+
+**Nexus Mods release:**
 [Space Marine 2 Mod Loader and Game Launcher — NK-Forge](https://www.nexusmods.com/warhammer40000spacemarine2/mods/381?tab=files)
+
+---
+
+### Full-Stack E-Commerce Application
+
+A full-stack e-commerce application built with React, Node.js, Express, PostgreSQL, Google OAuth, Stripe Checkout, Stripe webhooks, OpenAPI documentation, tests, linting, and Render deployment.
+
+**Why it matters:**
+This project demonstrates end-to-end product delivery across frontend, backend, authentication, payments, database modeling, API structure, and deployment.
+
+**Repository:**
+[github.com/NK-Forge/fullstack-ecommerce-app](https://github.com/NK-Forge/fullstack-ecommerce-app)
 
 ---
 
 ### ForgeBoard
 
-Full-stack project board application using React, Node/Express, PostgreSQL/Neon, testing, security middleware, and deployment-ready structure.
+A PERN stack project board application using React, Node.js, Express, PostgreSQL/Neon, route tests, component tests, security middleware, and deployment preparation.
 
 **Why it matters:**
-Shows practical full-stack workflow design, data modeling, API structure, frontend/backend integration, and clean project organization.
+This project demonstrates clean full-stack fundamentals: CRUD workflows, project/task data modeling, frontend/backend integration, validation, and testing.
+
+**Repository:**
+[github.com/NK-Forge/ForgeBoard](https://github.com/NK-Forge/ForgeBoard)
 
 ---
 
 ## Private / In-Progress Engineering Case Studies
 
-Some of my larger projects are private because they contain family data, business logic, security-sensitive workflows, unreleased product direction, or internal automation details. I still list them here because they reflect the kind of systems I am actively building.
+Some larger projects are private because they contain family data, business logic, security-sensitive workflows, unreleased product direction, or internal automation details. I still list select projects here because they reflect the kind of systems I am actively building.
 
 ### NK-Forge Orchestrator
 
-A TypeScript CLI/workspace system for coordinating AI-assisted engineering work across missions, tickets, reviews, generated documentation, and repeatable development checks.
+A private TypeScript CLI/workspace system for coordinating AI-assisted engineering work across missions, tickets, reviews, generated documentation, and repeatable development checks.
+
+**Current state:**
+Active private/internal engineering tool.
 
 **Focus areas:**
-Local AI orchestration, structured engineering workflows, CI validation, documentation generation, review loops, project automation, and multi-agent task planning.
+Local AI orchestration, structured engineering workflows, CLI design, CI validation, documentation generation, review loops, and project automation.
 
 ---
 
 ### NK-Forge Classroom
 
-A private household education platform for assigning coursework, tracking student progress, reviewing work, managing subjects, and supporting parent/student role-based workflows.
+A private household education platform for assigning coursework, tracking student progress, reviewing work, managing students/subjects, and supporting parent/student role-based workflows.
+
+**Current state:**
+Active private full-stack project.
 
 **Focus areas:**
 Full-stack architecture, authentication, role isolation, PostgreSQL schema design, household-scoped data access, API contracts, testing, and CI.
@@ -134,6 +167,9 @@ Full-stack architecture, authentication, role isolation, PostgreSQL schema desig
 
 A private business operations and invoicing platform focused on clients, invoices, payment tracking, reporting, and small-business workflow clarity.
 
+**Current state:**
+Private/in-progress product system.
+
 **Focus areas:**
 Product modeling, dashboard UX, financial workflow design, data validation, reporting, and maintainable full-stack structure.
 
@@ -143,17 +179,11 @@ Product modeling, dashboard UX, financial workflow design, data validation, repo
 
 A desktop utility for validating, cleaning, deduplicating, and preparing email lists from CSV, TXT, and spreadsheet workflows.
 
-**Focus areas:**
-Local-first processing, privacy-conscious tooling, file handling, validation pipelines, user review before destructive actions, and export workflows.
-
----
-
-### DevShark.work
-
-A product concept for skill-based developer matching focused on verified ability instead of résumé keyword filtering.
+**Current state:**
+Private product/tooling project.
 
 **Focus areas:**
-Assessment design, anti-cheat thinking, AI-aware evaluation, candidate/company matching, and practical hiring workflows.
+Local-first processing, privacy-conscious tooling, file handling, validation pipelines, review-before-action workflows, and export generation.
 
 ---
 
