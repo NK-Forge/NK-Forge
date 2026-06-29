@@ -31,7 +31,7 @@ I build with a verification-first mindset: clear architecture, documented decisi
 
 ## Quick Review Path
 
-If you are reviewing my work, these are the best starting points:
+If you are reviewing my work, these four repositories show the clearest range of my engineering experience:
 
 * **Backend systems:** [Document Dispatch Service](https://github.com/NK-Forge/DocumentDispatchService)
 * **Real-world desktop software:** [Space Marine 2 Mod Loader / Launcher](https://github.com/NK-Forge/mod_Loader)
@@ -42,7 +42,7 @@ If you are reviewing my work, these are the best starting points:
 
 ## What I Build
 
-* **Full-stack applications** — React, TypeScript, Node.js, APIs, auth, PostgreSQL, deployment, and documentation
+* **Full-stack applications** — React, TypeScript, Node.js, APIs, authentication, PostgreSQL, deployment, and documentation
 * **Backend systems** — service boundaries, job processing, retries, data modeling, concurrency, and operational visibility
 * **Desktop tools** — Electron and local-first utilities for file workflows, automation, and user-controlled operations
 * **Business automation** — scripts, pipelines, dashboards, data processing, and workflow cleanup
@@ -125,10 +125,10 @@ This project demonstrates end-to-end product delivery across frontend, backend, 
 
 ### ForgeBoard
 
-A PERN stack project board application using React, Node.js, Express, PostgreSQL/Neon, route tests, component tests, security middleware, and deployment preparation.
+A full-stack project and task management application built with React, Node.js, Express, PostgreSQL/Neon, route tests, component tests, security middleware, and deployment-ready configuration.
 
 **Why it matters:**
-This project demonstrates clean full-stack fundamentals: CRUD workflows, project/task data modeling, frontend/backend integration, validation, and testing.
+This project demonstrates clean full-stack fundamentals: CRUD workflows, project/task data modeling, frontend/backend integration, validation, testing, and practical application structure.
 
 **Repository:**
 [github.com/NK-Forge/ForgeBoard](https://github.com/NK-Forge/ForgeBoard)
